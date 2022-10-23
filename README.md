@@ -4,7 +4,7 @@
 This content is going to help me learn both using git commands and writing markdown text.
 This content is going to help me learn both using git commands and writing markdown text.
 
-    This content is going to help me learn both using git commands and writing markdown text.
+This content is going to help me learn both using git commands and writing markdown text.
 This content is going to help me learn both using git commands and writing markdown text.
 ### These are the items*
 * Chocolate
